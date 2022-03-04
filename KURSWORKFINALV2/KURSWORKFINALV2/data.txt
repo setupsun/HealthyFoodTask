@@ -1,0 +1,2 @@
+B	L	H	D		psi	v	gamma	theta_1	theta_2
+45	45	100	2000	0 	0	0		0		90
